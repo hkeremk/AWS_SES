@@ -1,3 +1,3 @@
 # Create an SES Email service using Terraform
 
-![SES2](images/SES_VI.png)
+![SES2](Assets/SES_VI.png)
